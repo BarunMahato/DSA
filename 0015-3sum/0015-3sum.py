@@ -3,6 +3,8 @@ class Solution:
         ret = []
         nums.sort()
         for index, value in enumerate(nums):
+            if value > 0:
+                break
             if index > 0 and nums[index - 1] == value:
                 continue
             left = index + 1
