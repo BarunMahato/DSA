@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/BarunMahato/DSA/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/BarunMahato/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/BarunMahato/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/BarunMahato/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BarunMahato/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/BarunMahato/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BarunMahato/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/BarunMahato/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/BarunMahato/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/BarunMahato/DSA/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -48,10 +51,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BarunMahato/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/BarunMahato/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BarunMahato/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/BarunMahato/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BarunMahato/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/BarunMahato/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/BarunMahato/DSA/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/BarunMahato/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/BarunMahato/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
