@@ -3,7 +3,7 @@ class Solution:
         left = 0
         total = 0
         res = float('inf')
-        for  right in range(len(nums)):
+        for right in range(len(nums)):
             total += nums[right]
             while total >= target:
                 res = min(res, right - left + 1)
