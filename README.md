@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/BarunMahato/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/BarunMahato/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/BarunMahato/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/BarunMahato/DSA/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BarunMahato/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0845-longest-mountain-in-array](https://github.com/BarunMahato/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/BarunMahato/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/BarunMahato/DSA/tree/master/0015-3sum) |
+| [0283-move-zeroes](https://github.com/BarunMahato/DSA/tree/master/0283-move-zeroes) |
 | [0845-longest-mountain-in-array](https://github.com/BarunMahato/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/BarunMahato/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
