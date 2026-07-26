@@ -9,6 +9,4 @@ class Solution:
                 res = min(res, right - left + 1)
                 total -= nums[left]
                 left += 1
-        if res == float('inf'):
-            return 0
-        return res
+        return 0 if res == float('inf') else res
