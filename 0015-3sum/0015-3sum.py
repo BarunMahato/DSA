@@ -1,19 +1,19 @@
 class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
-        ret = []
         nums.sort()
+        ret = []
         for index, value in enumerate(nums):
-            if value > 0 :
+            if value > 0:
                 break
-            if index > 0 and nums[index] == nums[index - 1]:
+            if index > 0 and nums[index - 1] == value:
                 continue
             left = index + 1
             right = len(nums) - 1
             while left < right:
-                current_sum = value + nums[left] + nums[right]
-                if current_sum > 0:
+                currentSum = value + nums[left] + nums[right]
+                if currentSum > 0:
                     right -= 1
-                elif current_sum < 0:
+                elif currentSum < 0:
                     left += 1
                 else:
                     ret.append([value, nums[left], nums[right]])
