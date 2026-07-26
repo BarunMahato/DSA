@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/BarunMahato/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/BarunMahato/DSA/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BarunMahato/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/BarunMahato/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/BarunMahato/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/BarunMahato/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/BarunMahato/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/BarunMahato/DSA/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/BarunMahato/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/BarunMahato/DSA/tree/master/0283-move-zeroes) |
 | [0845-longest-mountain-in-array](https://github.com/BarunMahato/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/BarunMahato/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/BarunMahato/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/BarunMahato/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
