@@ -4,12 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        current_sum = 0
-        max_sum = float('-inf')
+        maxSum = float('-inf')
+        add = 0
         for num in nums:
-            current_sum += num
-            if current_sum > max_sum:
-                max_sum = current_sum
-            if current_sum < 0:
-                current_sum = 0
-        return max_sum
+            add += num
+            if add > maxSum:
+                maxSum = add
+            if add < 0:
+                add = 0
+        return maxSum
