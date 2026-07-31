@@ -9,3 +9,4 @@ class Solution:
             key = tuple(count)
             anagram_dict[key].append(s)
         return list(anagram_dict.values())
+        
