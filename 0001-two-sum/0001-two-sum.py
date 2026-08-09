@@ -4,5 +4,5 @@ class Solution:
         for index, value in enumerate(nums):
             compliment = target - value
             if compliment in targetDict:
-                return targetDict[compliment], index
+                return index, targetDict[compliment]
             targetDict[value] = index
