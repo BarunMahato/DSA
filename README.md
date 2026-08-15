@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/BarunMahato/DSA/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/BarunMahato/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/BarunMahato/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/BarunMahato/DSA/tree/master/0704-binary-search) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/BarunMahato/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/BarunMahato/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/BarunMahato/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/BarunMahato/DSA/tree/master/0845-longest-mountain-in-array) |
 | [2951-find-the-peaks](https://github.com/BarunMahato/DSA/tree/master/2951-find-the-peaks) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/BarunMahato/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
